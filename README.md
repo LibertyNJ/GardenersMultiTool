@@ -71,8 +71,6 @@ void loop() {
 
 ## How to use
 
-The Gardener’s Multi-Tool is powered by a 9-volt battery and can be powered on or off by inserting or removing it.
-
 Pressing the change mode button cycles through the four different modes of operation.
 
 Twisting the potentiometer adjusts the contrast of the LCD display.
