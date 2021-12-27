@@ -55,8 +55,8 @@ The capacitive soil moisture sensor must be calibrated by two values in `config.
 You can use this sketch to print the sensor value to the serial monitor every second:
 
 ```
-const unsigned long baudRate{9600};
-const uint8_t soilMoistureSensorPin{A0};
+constexpr unsigned long baudRate{9600};
+constexpr uint8_t soilMoistureSensorPin{A0};
 
 void setup() {
 	Serial.begin(baudRate);
